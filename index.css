@@ -1,0 +1,217 @@
+.sfondo{
+background: #e6e6e6;
+width: 492px; 
+height: 721px;
+margin-inline:215px;   
+position: absolute; 
+left: 300px;
+top: 0px;
+}
+.sfondo2{
+
+position: absolute; 
+left: 6px;
+top: 2px;
+width: 43px;
+height: auto;
+}
+.rectangle{
+width: 492px;
+height: 22px;
+background: #222f3f;
+}
+#menu li {
+    display: inline;
+} 
+ul {
+    position: absolute;
+    left: -1px;
+    top: 6px;
+    width: 453px;
+height: 19px;
+    
+    background-color:#364757;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    padding: 5px 7px;
+    text-decoration: none;
+    font-size: 7px;
+    
+  }
+  
+li a {
+    margin-inline: 1px;
+}
+.orange{
+    position: absolute;
+    left: 13px;
+    top: 53px;
+    width: 469px;
+    height: 16px;
+    background: #f56600; 
+}
+.wi{
+    color: white;
+    position:absolute;
+    left: 194px;
+    top: -3px;
+    font-size: 7px;
+}
+.verde{
+    position:absolute;
+    left: 13px;
+    top: 80px; 
+    width: 469px;
+    height: 71px; 
+}
+.wi2{
+    color: white;
+    position:absolute;
+    left: 188px;
+    top: 88px;
+    font-size: 14px; 
+}
+.wi3{
+    color: white;
+    position:absolute;
+    left: 221px;
+    top: 115px;
+    font-size: 8px;   
+}
+.wi4{
+    position: absolute;
+    left: 13px;
+    top: 163px;
+    width: 469px;
+    height: 163px;
+    background: #ffffff;    
+}
+.elet{
+    
+    position: absolute;
+    left: 6px;
+    top: 17px;
+    width: 109px;
+    height: 138px;
+    border-radius: 7px;
+}
+.elet2{
+    position: absolute;
+    left: 122px;
+    top: 17px;
+    width: 109px;
+    height: 138px;
+    border-radius: 7px; 
+}
+.elet3{
+    position: absolute;
+    left: 238px;
+    top: 17px;
+    width: 109px;
+    height: 138px;
+    border-radius: 7px;    
+}
+.elet4{
+    position: absolute;
+    left: 354px;
+    top: 17px;
+    width: 109px;
+    height: 138px;
+    border-radius: 7px;   
+}
+.bla1{
+    position:absolute;
+    left: 7px;
+    top: -3px;
+    font-size: 8px;    
+}
+.bl{
+    position:absolute;
+    left: 81px;
+    top: 0,5px;
+    font-size: 6px;  
+    color: #1c565c;
+    
+}
+.vr2{
+    position:absolute;
+    left: 13px;
+    top: 337px; 
+    width: 469px;
+    height: 148px;
+}
+.bla2{
+    position:absolute;
+    left: 190px;
+    top: 478px; 
+    font-size: 8px;    
+
+}
+.bl2{
+    position:absolute;
+    left: 267px;
+    top: 482px;
+    font-size: 6px;  
+    color: #1c565c;
+      
+}
+.lent{
+    position:absolute;
+    left: 13px;
+    top: 502px; 
+    width: 469px;
+    height: 148px; 
+}
+.bla3{
+    position:absolute;
+    left: 179px;
+    top: 644px; 
+    font-size: 8px;   
+}
+.bl3{
+    position:absolute;
+    left: 251px;
+    top: 648px;
+    font-size: 6px;  
+    color: #1c565c; 
+}
+.rectangle2{
+    position:absolute;
+    left: 0px;
+    top: 663px;
+    width: 492px;
+    height: 17px;
+    background: #364757e8;
+
+
+}
+.fine{
+    position:absolute;
+    left: 236px;
+    top: 0px;
+    font-size: 5px;  
+    color: white;
+}
+.rectangle3{
+    position:absolute;
+    left: 0px;
+    top: 680px;
+    width: 493px;
+    height: 41px;
+    background: #222f3f;
+}
+
+.logoamazon{
+    position:absolute;
+    left: 224px;
+    top: 14px;
+    width: 48px;
+    height: 17px;
+}
